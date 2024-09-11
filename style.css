@@ -120,10 +120,12 @@ body{
     color: white;
     text-align: center;
     margin-top: 16px;
+    display: flex;
+    justify-content: center;
     gap: 8px;
-    
-    
 }
+    
+    
 .two-link a{
     text-decoration: none;
     color: white;
@@ -504,12 +506,16 @@ body{
 
 .foot-one .footul a{
     color: gray;
+   
     
 }
 .foot-one .footul i{
     font-size: 12px;
     
     
+}
+.footul  a{
+    text-decoration: none;
 }
 
 .footul i {
